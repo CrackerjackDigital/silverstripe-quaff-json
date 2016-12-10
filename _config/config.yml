@@ -1,0 +1,6 @@
+---
+Name: quaff-json-config
+---
+Quaff\Mappers\AssociativeArray:
+  content_types:
+    - 'application/json'

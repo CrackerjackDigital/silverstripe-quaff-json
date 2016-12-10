@@ -1,0 +1,6 @@
+---
+Name: quaff-json-mimetypes
+---
+Quaff\Transports\Stream:
+  mimetype_for_extension:
+    'json': 'application/json'
